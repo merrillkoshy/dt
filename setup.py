@@ -5,5 +5,5 @@ setup(
     version="1.0",
     author_email="merrillkoshy@gmail.com",
     description="Django dt,
-    py_modules = ['<filename>']
+    py_modules = ['dt',]
 )
