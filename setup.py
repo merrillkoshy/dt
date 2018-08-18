@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="<program_name>",
-    version="<version>",
-    author_email="<email>",
-    description="<description>,
+    name="dt",
+    version="1.0",
+    author_email="merrillkoshy@gmail.com",
+    description="Django dt,
     py_modules = ['<filename>']
 )
