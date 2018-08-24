@@ -24,7 +24,7 @@ def contact_page(request):
 	contact_form=ContactForm(request.POST or None)
 	context={
 		"title":"con",
-		"content":"ariyana?nink ariyanaa!!_nn",
+		"content":"ariyana?nink ariyanaann",
 		"form":contact_form
 	}
 	if contact_form.is_valid():
